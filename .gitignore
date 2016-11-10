@@ -1,9 +1,12 @@
 # Dependency Directory
-
 node_modules
 
+# Logs
 logs
-
 *.log
 
-public/js/bundle.js
+# Yarn
+yarn.lock
+
+# Bundles
+public/js
